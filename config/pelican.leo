@@ -43,14 +43,6 @@
 </v>
 <v t="leo.20180115142025.1"><vh>保留之前舊的設定檔案</vh></v>
 </v>
-<v t="yen.20170224232341.2"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
-<v t="yen.20170224232341.3"><vh>@edit base.html</vh></v>
-</v>
-<v t="leo.20170710015301.1"><vh>@path theme/pelican-bootstrap3/templates</vh>
-<v t="leo.20170710015311.1"><vh>@edit search.html</vh></v>
-<v t="leo.20170710095845.1"><vh>@edit base.html</vh></v>
-<v t="leo.20170710101854.1"><vh>@edit article.html</vh></v>
-</v>
 </v>
 <v t="leo.20170710015511.1"><vh>編輯 plugin</vh>
 <v t="leo.20170710015523.1"><vh>@path plugin</vh>
@@ -103,7 +95,6 @@ g.es("admin pelican Github 執行完畢")
 
 
 </t>
-<t tx="leo.20170710015301.1"></t>
 <t tx="leo.20170710015511.1"></t>
 <t tx="leo.20170710015523.1"></t>
 <t tx="leo.20170710015523.2"></t>
@@ -161,7 +152,8 @@ Author: 50833116
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-@others</t>
+@others
+</t>
 <t tx="leo.20200522155740.1">@language md
 ---
 Title: 使用CMSIMDE
@@ -174,7 +166,8 @@ Author: 50833116
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-@others</t>
+@others
+</t>
 <t tx="leo.20200522160453.1">@language md
 ---
 Title: 讓手機可以利用電腦熱點上網
@@ -432,7 +425,10 @@ ssh-keygen -t rsa -b 4096 -C "使用者學號"
 
 3. 接下來要利用 puttygen.exe 將 id_rsa 轉為 Putty 可以解讀的 .ppk 格式, 並修改隨身系統的啟動批次檔案, 指定利用 putty 目錄下的 plink 執行 git 指令的網路代理設定.
 
-
+1
+2
+3
+4
 修改啟動的 start.bat 加入下列設定:
  
 set GIT_HOME=%Disk%:\portablegit\bin\
@@ -483,7 +479,8 @@ Host github.com
     merge = refs/heads/master
 [submodule "cmsimde"]
     url = https://github.com/mdecourse/cmsimde.git
-之後就可以透過近端的 .ppk private key 與 Github.com 上的 public key 對應, 無需輸入帳號密碼就可以進行 git push.</t>
+之後就可以透過近端的 .ppk private key 與 Github.com 上的 public key 對應, 無需輸入帳號密碼就可以進行 git push.
+</t>
 <t tx="leo.20200529163043.1">step 1
 登入 gm 帳號後, 下載 https://drive.google.com/open?id=1SvMKQFViJ0mskt20UhSqkjzckB3noSJH 至 downloads 目錄, 然後以 7zip 解開到 C:\wcmj2020 目錄下
 
@@ -518,7 +515,8 @@ git add .
 git commit -m "commit message"
 git push
 
-輸入帳號密碼</t>
+輸入帳號密碼???
+</t>
 <t tx="leo.20200529163110.1">採用 https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/
 
 將此一 USB Wifi adapter 連接電腦後, 若網路為 IPv4 協定時, 可以透過"設定 -&gt; 網路和網際網路 -&gt; 行動熱點", 選擇開啟並編輯"網路名稱與網路密碼"後, 讓至多 8 台手機透過熱點連線上網.
@@ -667,6 +665,5 @@ def domake():
 make = threading.Thread(target=domake)
 make.start()</t>
 <t tx="yen.20170224232341.1"></t>
-<t tx="yen.20170224232341.2"></t>
 </tnodes>
 </leo_file>
