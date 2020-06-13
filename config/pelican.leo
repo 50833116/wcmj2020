@@ -75,6 +75,13 @@
 <v t="leo.20200522160453.1"><vh>@clean 20200522-2.md</vh>
 <v t="leo.20200529163110.1"><vh>20200522-2</vh></v>
 </v>
+<v t="leo.20200613135948.1"><vh>@clean 20200613.md</vh>
+<v t="leo.20200613140019.1"><vh>20200613</vh></v>
+<v t="leo.20200613141045.1"><vh>1693944440603465186</vh></v>
+</v>
+<v t="leo.20200613141407.1"><vh>@clean 20200613-1.md</vh>
+<v t="leo.20200613141445.1"><vh>20200613-1</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -171,7 +178,7 @@ Author: 50833116
 <t tx="leo.20200522160453.1">@language md
 ---
 Title: 讓手機可以利用電腦熱點上網
-Date: 2018-09-10 11:00
+Date: 2020-05-22 14:50
 Category: Misc
 Tags: 讓手機可以利用電腦熱點上網
 Slug: 2020-wcmj2020-3
@@ -522,6 +529,354 @@ git push
 將此一 USB Wifi adapter 連接電腦後, 若網路為 IPv4 協定時, 可以透過"設定 -&gt; 網路和網際網路 -&gt; 行動熱點", 選擇開啟並編輯"網路名稱與網路密碼"後, 讓至多 8 台手機透過熱點連線上網.
 
 但是因為目前 Windows 10 並未提供 IPv6 網路協定下的網路熱點功能, 因此在純 IPv6 網路協定下無法使用"行動熱點"服務.</t>
+<t tx="leo.20200613135948.1">@language md
+---
+Title:亂數分組
+Date: 2020-06-13 14:00
+Category: Misc
+Tags: 亂數分組
+Slug: 亂數分組
+Author: 50833116
+---
+@others</t>
+<t tx="leo.20200613140019.1">亂數分組:
+https://mde.tw/wcmj2020/downloads/2020spring_wcmj_1a_list.txt was taken from https://osa.nfu.edu.tw/ on Feb. 19, 2020.
+
+The most updated list: http://s1.mde.nfu.edu.tw:8000/?semester=1082&amp;courseno=2418 
+
+semester: 1082
+
+courseno: 2418
+
+Under https protocol use port 7443, for http use port 8000.
+
+學員名單 URL: 
+http://s1.mde.nfu.edu.tw:8000/?semester=1082&amp;courseno=2418 
+
+
+
+Dart source code for random grouping
+
+evenGrouping.dart:
+
+import 'dart:html';
+  
+  InputElement studListUrl = querySelector("#studListUrl");
+  String studUrl;
+  // 將 Label 改為 Textarea, 避免產生過程結果嵌入所在頁面
+  TextAreaElement output = querySelector("#output");
+  
+main() {
+  querySelector("#submit").onClick.listen((e) =&gt; grouping());
+}
+  
+grouping() {
+  output.innerHtml = "";
+  
+  if (studListUrl.value != "") {
+    studUrl = studListUrl.value;
+  } else {
+    studUrl = 'https://mde.tw/group/downloads/2019fall_cp_1a_list.txt';
+  }
+  
+  // 組序由 1 開始
+  int gth = 1;
+  // 迴圈序號變數
+  int i;
+  int j;
+  int total;
+  int inc;
+  // 每組學員暫存數列
+  var gpList = [];
+  // 全班分組數列
+  var group = [];
+  // 各組人數數列
+  var numList = [];
+  var courseTitle = 'wcmj2020';
+  
+  HttpRequest.getString(studUrl).then((String resp) {
+    // 利用 trim() 去除字串最後的跳行符號, 之後再利用 split() 根據 \n 轉為數列
+    var studList = resp.trim().split("\n");
+    // 數列利用 shuffle() 方法以隨機方法弄亂順序
+    studList.shuffle();
+    total = studList.length;
+    output.text += "全班總計" + total.toString() + " 人\n";
+    numList = getNumList(studList.length);
+    inc = 0;
+    for (i in numList){
+      // 列印區隔符號
+      output.text += '=' * 20 + "\n";
+      output.text += "group $gth 有 " + i.toString() + " 人: \n";
+      gpList = [];
+      for (j = 0; j &lt; i; j++){
+        output.text += studList[j+inc] + "\n";
+        // 在各分組數列中加入將對應的學員學號
+        gpList.add(studList[j+inc]);
+      }
+      gth = gth + 1;
+      inc = inc + j;
+        //output.text += studList[j] + "\n";
+        // 逐步將各組暫存的分組數列加入全班分組數列中
+      gpList.sort();
+      group.add(gpList);
+    }
+    // 列出全班分組數列
+    output.text += group.toString() + "\n";
+    // 列出已經排序後的分組名單
+    output.text += '=' * 25 + "\n";
+    output.text += '以下為排序後的各組成員名單: \n';
+    gth = 1;
+    /*
+    404231
+    s4052
+    4062
+    s4072
+    4082
+    5072
+    5083
+    */
+    // 先列出純文字以 \n 跳行組員資料
+    for (i=0; i &lt; group.length; i++){
+      // 列印區隔符號
+      output.text += '=' * 20 + "\n";
+      output.text += "group $gth \n";
+      gpList = [];
+      for (j=0; j &lt; group[i].length; j++){
+        output.text += group[i][j] + "\n";
+      }
+      gth = gth + 1;
+    }
+     
+    gth = 1;
+    // 最後列出超文件以 &lt;br\&gt; 跳行組員資料, 包含倉儲與網站
+    for (i=0; i &lt; group.length; i++){
+      // 列印區隔符號
+      output.text += '\n' + '=' * 30 + "&lt;br \&gt;";
+      output.text += "group $gth &lt;br \&gt;";
+      gpList = [];
+      for (j=0; j &lt; group[i].length; j++){
+          if (group[i][j].startsWith('4052') || group[i][j].startsWith('4072')) {
+              output.text += "Repository: &lt;a href='https://github.com/s" + 
+                                      group[i][j] + "/" + courseTitle + "'&gt;" + group[i][j] + 
+                                      "&lt;/a&gt;" + " | Site: &lt;a href='https://s" + group[i][j] + 
+                                      ".github.io/" + courseTitle + "'&gt;" + group[i][j] + 
+                                      "&lt;/a&gt;&lt;br \&gt;";
+          }
+          else {
+              output.text += "Repository: &lt;a href='https://github.com/" + 
+                                      group[i][j] + "/" + courseTitle +"'&gt;" + group[i][j] + 
+                                      "&lt;/a&gt;" + " | Site: &lt;a href='https://" + group[i][j] + 
+                                      ".github.io/" + courseTitle + "'&gt;" + group[i][j] + 
+                                      "&lt;/a&gt;&lt;br \&gt;";
+          }
+      }
+      gth = gth + 1;
+    }
+  });
+}
+  
+List getNumList(int total){
+  // total student number
+  // int total = 65;
+  // initial each group expect to be "eachGrp" number of people
+  int eachGrp = 10;
+  // may divide into "grpNum" number of group
+  int grpNum = total ~/ eachGrp;
+  // vacant list
+  var splits = [];
+  // find remainder when total number divid into "grpNum" number of group
+  int remainder = total % grpNum;
+  // number of people in one group by calculation
+  int calGrp = total ~/ grpNum;
+  
+  for (int i = 0; i &lt; grpNum; i++) {
+    splits.add(calGrp);
+  }
+  //print(splits);
+  
+  for (int i = 0; i &lt; remainder; i++) {
+    splits[i] += 1;
+  }
+  //print(splits);
+  return splits;
+ }
+index.html:
+
+&lt;h1&gt;亂數分組:&lt;/h1&gt;
+學員名單 URL: &lt;input type="text" id="studListUrl" size="50" value="https://mde.tw/wcm2020/downloads/2020spring_wcm_1a_list.txt"&gt;&lt;br /&gt;
+&lt;input type="submit" value="開始分組" id="submit"&gt;&lt;br /&gt;
+&lt;textarea id="output" cols="80" rows="10"&gt;&lt;/textarea&gt;
+style.css:
+
+body {
+  color: white;
+  font-size: 20px;
+}
+ 
+input, select, textarea {
+font-size: 100%;
+}
+get_student.py
+
+from flask import Flask, request 
+from flask_cors import CORS
+ 
+import requests
+import bs4
+import ssl
+ 
+'''
+https://s1.mde.nfu.edu.tw:7443/?semester=1082&amp;courseno=0767
+cd
+2a 1082/0767
+2b 1082/0780
+ 
+2a 1072/0777
+2b 1072/0790
+2a 1062/0788
+2a 1062/0802
+ 
+wcm
+1082/0744
+ 
+1072/0754
+1062/0765
+ 
+wcmj
+1082/2418
+'''
+ 
+app = Flask(__name__)
+CORS(app)
+ 
+@app.route('/studlist')
+@app.route('/')
+def studlist():
+    semester = request.args.get('semester')
+    courseno = request.args.get('courseno')
+    if semester == None:
+        semester = '1082'
+    if courseno == None:
+        courseno = '0744'
+     
+    url = 'https://osa.nfu.edu.tw/query/studlist_ajax.php'
+    post_var = {'pselyr': semester, 'pseqno': courseno}
+ 
+    result = requests.post(url, data = post_var)
+ 
+    soup = bs4.BeautifulSoup(result.content, 'lxml')
+    table = soup.find('table', {'class': 'tbcls'})
+    data = []
+    rows = table.find_all('tr')
+    for row in rows:
+        cols = row.find_all('td')
+        cols = [ele.text.strip() for ele in cols]
+        data.append([ele for ele in cols if ele]) # Get rid of empty values
+    output = ""
+    for i in data[2:]:
+        #print(i[0])
+        output +=i[0] + "\n"
+    return output
+    #return  str(pselyr) + " + " +str(pseqno)
+ 
+# 即使在近端仍希望以 https 模式下執行
+context = ssl.SSLContext(ssl.PROTOCOL_TLSv1_2)
+context.load_cert_chain('localhost.crt', 'localhost.key')
+ 
+# 取 flaskapp.py 中的 uwsgi 變數設定
+uwsgi = False
+if uwsgi:
+    # 表示程式在雲端執行
+    application = app
+else:
+    # 表示在近端執行, 以 python3 wsgi.py 執行
+    app.run(host='127.0.0.1', port=5443, debug=True, ssl_context=context)
+nginx sites-available/default settings:
+
+server {
+    listen 8000;
+    server_name s1.mde.nfu.edu.tw;
+    charset utf-8;
+     
+    listen 7443 ssl;
+  
+    location /static {
+        alias /home/kmol2019/course_studlist/static/;
+    }
+  
+    location / {
+        include uwsgi_params;
+        uwsgi_pass  127.0.0.1:8087;
+    }
+     
+    ssl_certificate /etc/stunnel/localhost.crt;
+    ssl_certificate_key /etc/stunnel/localhost.key;
+    ssl_session_timeout 5m;
+    ssl_protocols SSLv3 TLSv1 TLSv1.1 TLSv1.2;
+    ssl_ciphers "HIGH:!aNULL:!MD5 or HIGH:!aNULL:!MD5:!3DES";
+    ssl_prefer_server_ciphers on;
+    try_files $uri $uri/ =404;
+}
+uwsgi7.ini
+
+[uwsgi]
+socket = 127.0.0.1:8087
+uid = kmol2019
+gid = kmol2019
+plugins-dir = /usr/lib/uwsgi/plugins/
+plugin = python3
+master = true
+logto = /var/log/uwsgi/emperor.log
+logfile-chown = kmol2019:kmol2019
+processes = 4
+threads = 2
+chdir = /home/kmol2019/course_studlist
+wsgi-file = /home/kmol2019/course_studlist/get_student.py
+/etc/systemd/system/cmsimfly.service
+
+[Unit]
+Description=uWSGI to serve CMSimfly
+After=network.target
+ 
+[Service]
+User=kmol2019
+Group=kmol2019
+WorkingDirectory=/home/kmol2019/uwsgi_ini
+ExecStart=/usr/local/bin/uwsgi --emperor /home/kmol2019/uwsgi_ini
+ 
+[Install]
+WantedBy=multi-user.target
+</t>
+<t tx="leo.20200613141045.1"></t>
+<t tx="leo.20200613141407.1">@language md
+---
+Title:電腦主機硬體設備介紹
+Date: 2020-06-13 14:15
+Category: Misc
+Tags: 電腦主機硬體設備介紹
+Slug: 電腦主機硬體設備介紹
+Author: 50833116
+---
+@others</t>
+<t tx="leo.20200613141445.1">1.機殼：容納和保護主機營體的主機殼
+
+2.電源(Power)：是提供內接式元件電力來源的組件，他將市電轉換為直流電供給其他元件使用。
+
+3.顯示卡(VGA )：顯示卡在電腦中主要作用就是程式運行時根據CPU提共的指令和有關數據，轉換成顯示器能夠接受的文字和圖形顯示信號後通過螢幕顯示出來，簡單來說，就是把電腦計算出來的文字與圖形表現在顯示器上。
+
+4.網路卡：網路卡是電腦與纜線的介面，有依各專門處裡網路介面的處裡器，會依照記憶體內程式動作。
+
+5.硬碟：硬碟就是電腦中負責儲存資料的工具，它就像是一各資料庫依樣，電腦中的大小資料均可以在此找到。
+
+6.中央處理器(CPU)：又稱為電腦的心臟，而CPU主要工作是算術、運輯運算，解讀電腦內的每葛指令來控制點腦的運作。
+
+7.主機板：主機板的功能主要在承戴其插卡，所有電腦裡的東西都會接到主機板 ，它們之間要相互的傳資料也是經過主機板，之後再傳到對方，簡單的來說，它就像一個轉運站一樣。
+
+8.音效卡：可說是現在多媒體電腦的必備元件之一，負責電腦音訊的處理讓我們可聽到電腦發出優美的聲音，近年來，主機 板比較先進，大多將其內建在主機板上。
+
+9.記憶體(RAM)：記憶體的主要功用是暫存資料，當它被使用時，系統可以從RAM上存取資料，而且需要電力來維持它的記憶，所以記憶體可以說是電腦系統中最佳倉儲管理員。
+
+10.光碟機：光碟機，顧名思義就是讀取光碟的工具，爾現在很多光碟機都附有燒綠功能(VCD-DVD)不僅能讀取更可燒綠。</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
