@@ -1,5 +1,309 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>50833116 網際內容管理</title><link href="./" rel="alternate"></link><link href=".%5Cfeeds/all.atom.xml" rel="self"></link><id>./</id><updated>2020-05-22T15:30:00+08:00</updated><entry><title>使用CMSIMDE</title><link href=".%5C2020-wcmj2020-2.html" rel="alternate"></link><published>2020-05-22T15:30:00+08:00</published><updated>2020-05-22T15:30:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-05-22:.\2020-wcmj2020-2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>50833116 網際內容管理</title><link href="./" rel="alternate"></link><link href=".%5Cfeeds/all.atom.xml" rel="self"></link><id>./</id><updated>2020-06-13T14:15:00+08:00</updated><entry><title>電腦主機硬體設備介紹</title><link href=".%5C%E9%9B%BB%E8%85%A6%E4%B8%BB%E6%A9%9F%E7%A1%AC%E9%AB%94%E8%A8%AD%E5%82%99%E4%BB%8B%E7%B4%B9.html" rel="alternate"></link><published>2020-06-13T14:15:00+08:00</published><updated>2020-06-13T14:15:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-06-13:.\電腦主機硬體設備介紹.html</id><summary type="html">&lt;p&gt;1.機殼：容納和保護主機營體的主機殼&lt;/p&gt;
+&lt;p&gt;2.電源(Power)：是提供內接式元件電力來源的組件，他將市電轉換為直流電供給其他元件使用。&lt;/p&gt;
+&lt;p&gt;3.顯示卡(VGA )：顯示卡在電腦中主要作用就是程式運行時根據CPU提共的指令和有關數據，轉換成顯示器能夠接受的文字和圖形顯示信號後通過螢幕顯示出來，簡單來說，就是把電腦計算出來的文字與圖形表現在顯示器上。&lt;/p&gt;
+&lt;p&gt;4.網路卡：網路卡是電腦與纜線的介面，有依各專門處裡網路介面的處裡器，會依照記憶體內程式動作。&lt;/p&gt;
+&lt;p&gt;5.硬碟：硬碟就是電腦中負責儲存資料的工具，它就像是一各資料庫依樣，電腦中的大小資料均可以在此找到。&lt;/p&gt;
+&lt;p&gt;6.中央處理器(CPU)：又稱為電腦的心臟，而CPU主要工作是算術、運輯運算，解讀電腦內的每葛指令來控制點腦的運作。&lt;/p&gt;
+&lt;p&gt;7.主機板：主機板的功能主要在承戴其插卡，所有電腦裡的東西都會接到主機板 ，它們之間要相互的傳資料也是經過主機板，之後再傳到對方，簡單的來說，它就像一個轉運站一樣。&lt;/p&gt;
+&lt;p&gt;8.音效卡：可說是現在多媒體電腦的必備元件之一，負責電腦音訊的處理讓我們可聽到電腦發出優美的聲音，近年來，主機 板比較先進，大多將其內建在主機板上。&lt;/p&gt;
+&lt;p&gt;9.記憶體 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;1.機殼：容納和保護主機營體的主機殼&lt;/p&gt;
+&lt;p&gt;2.電源(Power)：是提供內接式元件電力來源的組件，他將市電轉換為直流電供給其他元件使用。&lt;/p&gt;
+&lt;p&gt;3.顯示卡(VGA )：顯示卡在電腦中主要作用就是程式運行時根據CPU提共的指令和有關數據，轉換成顯示器能夠接受的文字和圖形顯示信號後通過螢幕顯示出來，簡單來說，就是把電腦計算出來的文字與圖形表現在顯示器上。&lt;/p&gt;
+&lt;p&gt;4.網路卡：網路卡是電腦與纜線的介面，有依各專門處裡網路介面的處裡器，會依照記憶體內程式動作。&lt;/p&gt;
+&lt;p&gt;5.硬碟：硬碟就是電腦中負責儲存資料的工具，它就像是一各資料庫依樣，電腦中的大小資料均可以在此找到。&lt;/p&gt;
+&lt;p&gt;6.中央處理器(CPU)：又稱為電腦的心臟，而CPU主要工作是算術、運輯運算，解讀電腦內的每葛指令來控制點腦的運作。&lt;/p&gt;
+&lt;p&gt;7.主機板：主機板的功能主要在承戴其插卡，所有電腦裡的東西都會接到主機板 ，它們之間要相互的傳資料也是經過主機板，之後再傳到對方，簡單的來說，它就像一個轉運站一樣。&lt;/p&gt;
+&lt;p&gt;8.音效卡：可說是現在多媒體電腦的必備元件之一，負責電腦音訊的處理讓我們可聽到電腦發出優美的聲音，近年來，主機 板比較先進，大多將其內建在主機板上。&lt;/p&gt;
+&lt;p&gt;9.記憶體(RAM)：記憶體的主要功用是暫存資料，當它被使用時，系統可以從RAM上存取資料，而且需要電力來維持它的記憶，所以記憶體可以說是電腦系統中最佳倉儲管理員。&lt;/p&gt;
+&lt;p&gt;10.光碟機：光碟機，顧名思義就是讀取光碟的工具，爾現在很多光碟機都附有燒綠功能(VCD-DVD)不僅能讀取更可燒綠。&lt;/p&gt;</content><category term="Misc"></category><category term="電腦主機硬體設備介紹"></category></entry><entry><title>亂數分組</title><link href=".%5C%E4%BA%82%E6%95%B8%E5%88%86%E7%B5%84.html" rel="alternate"></link><published>2020-06-13T14:00:00+08:00</published><updated>2020-06-13T14:00:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-06-13:.\亂數分組.html</id><summary type="html">&lt;p&gt;亂數分組:
+https://mde.tw/wcmj2020/downloads/2020spring_wcmj_1a_list.txt was taken from https://osa.nfu.edu.tw/ on Feb. 19, 2020.&lt;/p&gt;
+&lt;p&gt;The most updated list: http://s1.mde.nfu.edu.tw:8000/?semester=1082&amp;amp;courseno=2418 &lt;/p&gt;
+&lt;p&gt;semester: 1082&lt;/p&gt;
+&lt;p&gt;courseno: 2418&lt;/p&gt;
+&lt;p&gt;Under https protocol use port 7443, for http use port 8000 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;亂數分組:
+https://mde.tw/wcmj2020/downloads/2020spring_wcmj_1a_list.txt was taken from https://osa.nfu.edu.tw/ on Feb. 19, 2020.&lt;/p&gt;
+&lt;p&gt;The most updated list: http://s1.mde.nfu.edu.tw:8000/?semester=1082&amp;amp;courseno=2418 &lt;/p&gt;
+&lt;p&gt;semester: 1082&lt;/p&gt;
+&lt;p&gt;courseno: 2418&lt;/p&gt;
+&lt;p&gt;Under https protocol use port 7443, for http use port 8000.&lt;/p&gt;
+&lt;p&gt;學員名單 URL: 
+http://s1.mde.nfu.edu.tw:8000/?semester=1082&amp;amp;courseno=2418 &lt;/p&gt;
+&lt;p&gt;Dart source code for random grouping&lt;/p&gt;
+&lt;p&gt;evenGrouping.dart:&lt;/p&gt;
+&lt;p&gt;import 'dart:html';&lt;/p&gt;
+&lt;p&gt;InputElement studListUrl = querySelector("#studListUrl");
+  String studUrl;
+  // 將 Label 改為 Textarea, 避免產生過程結果嵌入所在頁面
+  TextAreaElement output = querySelector("#output");&lt;/p&gt;
+&lt;p&gt;main() {
+  querySelector("#submit").onClick.listen((e) =&amp;gt; grouping());
+}&lt;/p&gt;
+&lt;p&gt;grouping() {
+  output.innerHtml = "";&lt;/p&gt;
+&lt;p&gt;if (studListUrl.value != "") {
+    studUrl = studListUrl.value;
+  } else {
+    studUrl = 'https://mde.tw/group/downloads/2019fall_cp_1a_list.txt';
+  }&lt;/p&gt;
+&lt;p&gt;// 組序由 1 開始
+  int gth = 1;
+  // 迴圈序號變數
+  int i;
+  int j;
+  int total;
+  int inc;
+  // 每組學員暫存數列
+  var gpList = [];
+  // 全班分組數列
+  var group = [];
+  // 各組人數數列
+  var numList = [];
+  var courseTitle = 'wcmj2020';&lt;/p&gt;
+&lt;p&gt;HttpRequest.getString(studUrl).then((String resp) {
+    // 利用 trim() 去除字串最後的跳行符號, 之後再利用 split() 根據 \n 轉為數列
+    var studList = resp.trim().split("\n");
+    // 數列利用 shuffle() 方法以隨機方法弄亂順序
+    studList.shuffle();
+    total = studList.length;
+    output.text += "全班總計" + total.toString() + " 人\n";
+    numList = getNumList(studList.length);
+    inc = 0;
+    for (i in numList){
+      // 列印區隔符號
+      output.text += '=' * 20 + "\n";
+      output.text += "group $gth 有 " + i.toString() + " 人: \n";
+      gpList = [];
+      for (j = 0; j &amp;lt; i; j++){
+        output.text += studList[j+inc] + "\n";
+        // 在各分組數列中加入將對應的學員學號
+        gpList.add(studList[j+inc]);
+      }
+      gth = gth + 1;
+      inc = inc + j;
+        //output.text += studList[j] + "\n";
+        // 逐步將各組暫存的分組數列加入全班分組數列中
+      gpList.sort();
+      group.add(gpList);
+    }
+    // 列出全班分組數列
+    output.text += group.toString() + "\n";
+    // 列出已經排序後的分組名單
+    output.text += '=' * 25 + "\n";
+    output.text += '以下為排序後的各組成員名單: \n';
+    gth = 1;
+    /&lt;em&gt;
+    404231
+    s4052
+    4062
+    s4072
+    4082
+    5072
+    5083
+    &lt;/em&gt;/
+    // 先列出純文字以 \n 跳行組員資料
+    for (i=0; i &amp;lt; group.length; i++){
+      // 列印區隔符號
+      output.text += '=' * 20 + "\n";
+      output.text += "group $gth \n";
+      gpList = [];
+      for (j=0; j &amp;lt; group[i].length; j++){
+        output.text += group[i][j] + "\n";
+      }
+      gth = gth + 1;
+    }&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;gth&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;最後列出超文件以&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;br&lt;/span&gt;&lt;span class="err"&gt;\&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;跳行組員資料&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;包含倉儲與網站&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;length&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="err"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;列印區隔符號&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="k"&gt;output&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;text&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;\n&amp;#39;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;=&amp;#39;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;30&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;&amp;lt;br \&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="k"&gt;output&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;text&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;group $gth &amp;lt;br \&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;gpList&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;[]&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;length&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="err"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="k"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;][&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;startsWith&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;4052&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;||&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;][&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;startsWith&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;4072&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;          &lt;/span&gt;&lt;span class="k"&gt;output&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;text&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;Repository: &amp;lt;a href=&amp;#39;https://github.com/s&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="w"&gt;                                  &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;][&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;/&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;courseTitle&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;&amp;#39;&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;][&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="w"&gt;                                  &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;&amp;lt;/a&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot; | Site: &amp;lt;a href=&amp;#39;https://s&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;][&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="w"&gt;                                  &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;.github.io/&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;courseTitle&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;&amp;#39;&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;][&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="w"&gt;                                  &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;&amp;lt;/a&amp;gt;&amp;lt;br \&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="err"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="k"&gt;else&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;          &lt;/span&gt;&lt;span class="k"&gt;output&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;text&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;Repository: &amp;lt;a href=&amp;#39;https://github.com/&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="w"&gt;                                  &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;][&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;/&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;courseTitle&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;&amp;#39;&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;][&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="w"&gt;                                  &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;&amp;lt;/a&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot; | Site: &amp;lt;a href=&amp;#39;https://&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;][&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="w"&gt;                                  &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;.github.io/&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;courseTitle&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;&amp;#39;&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;group&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;][&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="w"&gt;                                  &lt;/span&gt;&lt;span class="ss"&gt;&amp;quot;&amp;lt;/a&amp;gt;&amp;lt;br \&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="err"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;gth&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;gth&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="err"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;});
+}&lt;/p&gt;
+&lt;p&gt;List getNumList(int total){
+  // total student number
+  // int total = 65;
+  // initial each group expect to be "eachGrp" number of people
+  int eachGrp = 10;
+  // may divide into "grpNum" number of group
+  int grpNum = total ~/ eachGrp;
+  // vacant list
+  var splits = [];
+  // find remainder when total number divid into "grpNum" number of group
+  int remainder = total % grpNum;
+  // number of people in one group by calculation
+  int calGrp = total ~/ grpNum;&lt;/p&gt;
+&lt;p&gt;for (int i = 0; i &amp;lt; grpNum; i++) {
+    splits.add(calGrp);
+  }
+  //print(splits);&lt;/p&gt;
+&lt;p&gt;for (int i = 0; i &amp;lt; remainder; i++) {
+    splits[i] += 1;
+  }
+  //print(splits);
+  return splits;
+ }
+index.html:&lt;/p&gt;
+&lt;h1&gt;亂數分組:&lt;/h1&gt;
+
+&lt;p&gt;學員名單 URL: &lt;input type="text" id="studListUrl" size="50" value="https://mde.tw/wcm2020/downloads/2020spring_wcm_1a_list.txt"&gt;&lt;br /&gt;
+&lt;input type="submit" value="開始分組" id="submit"&gt;&lt;br /&gt;
+&lt;textarea id="output" cols="80" rows="10"&gt;&lt;/textarea&gt;
+style.css:&lt;/p&gt;
+&lt;p&gt;body {
+  color: white;
+  font-size: 20px;
+}&lt;/p&gt;
+&lt;p&gt;input, select, textarea {
+font-size: 100%;
+}
+get_student.py&lt;/p&gt;
+&lt;p&gt;from flask import Flask, request 
+from flask_cors import CORS&lt;/p&gt;
+&lt;p&gt;import requests
+import bs4
+import ssl&lt;/p&gt;
+&lt;p&gt;'''
+https://s1.mde.nfu.edu.tw:7443/?semester=1082&amp;amp;courseno=0767
+cd
+2a 1082/0767
+2b 1082/0780&lt;/p&gt;
+&lt;p&gt;2a 1072/0777
+2b 1072/0790
+2a 1062/0788
+2a 1062/0802&lt;/p&gt;
+&lt;p&gt;wcm
+1082/0744&lt;/p&gt;
+&lt;p&gt;1072/0754
+1062/0765&lt;/p&gt;
+&lt;p&gt;wcmj
+1082/2418
+'''&lt;/p&gt;
+&lt;p&gt;app = Flask(&lt;strong&gt;name&lt;/strong&gt;)
+CORS(app)&lt;/p&gt;
+&lt;p&gt;@app.route('/studlist')
+@app.route('/')
+def studlist():
+    semester = request.args.get('semester')
+    courseno = request.args.get('courseno')
+    if semester == None:
+        semester = '1082'
+    if courseno == None:
+        courseno = '0744'&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;url&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;https://osa.nfu.edu.tw/query/studlist_ajax.php&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;post_var&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="err"&gt;{&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;pselyr&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;semester&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;pseqno&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;courseno&lt;/span&gt;&lt;span class="err"&gt;}&lt;/span&gt;
+
+&lt;span class="k"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;requests&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;post&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;data&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;post_var&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+&lt;span class="n"&gt;soup&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;bs4&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;BeautifulSoup&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;result&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;content&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;lxml&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;table&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;soup&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;find&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;table&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="err"&gt;{&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;class&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;tbcls&amp;#39;&lt;/span&gt;&lt;span class="err"&gt;}&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;data&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[]&lt;/span&gt;
+&lt;span class="k"&gt;rows&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;table&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;find_all&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;tr&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="k"&gt;row&lt;/span&gt; &lt;span class="k"&gt;in&lt;/span&gt; &lt;span class="k"&gt;rows&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="n"&gt;cols&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;row&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;find_all&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;td&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="n"&gt;cols&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;ele&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;text&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;strip&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;ele&lt;/span&gt; &lt;span class="k"&gt;in&lt;/span&gt; &lt;span class="n"&gt;cols&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+    &lt;span class="k"&gt;data&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;append&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="n"&gt;ele&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;ele&lt;/span&gt; &lt;span class="k"&gt;in&lt;/span&gt; &lt;span class="n"&gt;cols&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;ele&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt; &lt;span class="o"&gt;#&lt;/span&gt; &lt;span class="k"&gt;Get&lt;/span&gt; &lt;span class="n"&gt;rid&lt;/span&gt; &lt;span class="k"&gt;of&lt;/span&gt; &lt;span class="n"&gt;empty&lt;/span&gt; &lt;span class="k"&gt;values&lt;/span&gt;
+&lt;span class="k"&gt;output&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="ss"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="k"&gt;in&lt;/span&gt; &lt;span class="k"&gt;data&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;:]:&lt;/span&gt;
+    &lt;span class="o"&gt;#&lt;/span&gt;&lt;span class="n"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
+    &lt;span class="k"&gt;output&lt;/span&gt; &lt;span class="o"&gt;+=&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="ss"&gt;&amp;quot;\n&amp;quot;&lt;/span&gt;
+&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="k"&gt;output&lt;/span&gt;
+&lt;span class="o"&gt;#&lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;  &lt;span class="n"&gt;str&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;pselyr&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="ss"&gt;&amp;quot; + &amp;quot;&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;str&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;pseqno&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h1&gt;即使在近端仍希望以 https 模式下執行&lt;/h1&gt;
+&lt;p&gt;context = ssl.SSLContext(ssl.PROTOCOL_TLSv1_2)
+context.load_cert_chain('localhost.crt', 'localhost.key')&lt;/p&gt;
+&lt;h1&gt;取 flaskapp.py 中的 uwsgi 變數設定&lt;/h1&gt;
+&lt;p&gt;uwsgi = False
+if uwsgi:
+    # 表示程式在雲端執行
+    application = app
+else:
+    # 表示在近端執行, 以 python3 wsgi.py 執行
+    app.run(host='127.0.0.1', port=5443, debug=True, ssl_context=context)
+nginx sites-available/default settings:&lt;/p&gt;
+&lt;p&gt;server {
+    listen 8000;
+    server_name s1.mde.nfu.edu.tw;
+    charset utf-8;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;listen&lt;/span&gt; &lt;span class="nt"&gt;7443&lt;/span&gt; &lt;span class="nt"&gt;ssl&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+
+&lt;span class="nt"&gt;location&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nt"&gt;static&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="err"&gt;alias&lt;/span&gt; &lt;span class="err"&gt;/home/kmol2019/course_studlist/static/&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;location&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="err"&gt;include&lt;/span&gt; &lt;span class="err"&gt;uwsgi_params&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="err"&gt;uwsgi_pass&lt;/span&gt;  &lt;span class="err"&gt;127.0.0.1:8087&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;ssl_certificate&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nt"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nt"&gt;stunnel&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nt"&gt;localhost&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;crt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="nt"&gt;ssl_certificate_key&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nt"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nt"&gt;stunnel&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nt"&gt;localhost&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;key&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="nt"&gt;ssl_session_timeout&lt;/span&gt; &lt;span class="nt"&gt;5m&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="nt"&gt;ssl_protocols&lt;/span&gt; &lt;span class="nt"&gt;SSLv3&lt;/span&gt; &lt;span class="nt"&gt;TLSv1&lt;/span&gt; &lt;span class="nt"&gt;TLSv1&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;1&lt;/span&gt; &lt;span class="nt"&gt;TLSv1&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;2&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="nt"&gt;ssl_ciphers&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;HIGH:!aNULL:!MD5 or HIGH:!aNULL:!MD5:!3DES&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="nt"&gt;ssl_prefer_server_ciphers&lt;/span&gt; &lt;span class="nt"&gt;on&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="nt"&gt;try_files&lt;/span&gt; &lt;span class="o"&gt;$&lt;/span&gt;&lt;span class="nt"&gt;uri&lt;/span&gt; &lt;span class="o"&gt;$&lt;/span&gt;&lt;span class="nt"&gt;uri&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nt"&gt;404&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;}
+uwsgi7.ini&lt;/p&gt;
+&lt;p&gt;[uwsgi]
+socket = 127.0.0.1:8087
+uid = kmol2019
+gid = kmol2019
+plugins-dir = /usr/lib/uwsgi/plugins/
+plugin = python3
+master = true
+logto = /var/log/uwsgi/emperor.log
+logfile-chown = kmol2019:kmol2019
+processes = 4
+threads = 2
+chdir = /home/kmol2019/course_studlist
+wsgi-file = /home/kmol2019/course_studlist/get_student.py
+/etc/systemd/system/cmsimfly.service&lt;/p&gt;
+&lt;p&gt;[Unit]
+Description=uWSGI to serve CMSimfly
+After=network.target&lt;/p&gt;
+&lt;p&gt;[Service]
+User=kmol2019
+Group=kmol2019
+WorkingDirectory=/home/kmol2019/uwsgi_ini
+ExecStart=/usr/local/bin/uwsgi --emperor /home/kmol2019/uwsgi_ini&lt;/p&gt;
+&lt;p&gt;[Install]
+WantedBy=multi-user.target&lt;/p&gt;</content><category term="Misc"></category><category term="亂數分組"></category></entry><entry><title>使用CMSIMDE</title><link href=".%5C2020-wcmj2020-2.html" rel="alternate"></link><published>2020-05-22T15:30:00+08:00</published><updated>2020-05-22T15:30:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-05-22:.\2020-wcmj2020-2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;step 1
+登入 gm 帳號後, 下載 https://drive.google.com/open?id=1SvMKQFViJ0mskt20UhSqkjzckB3noSJH 至 downloads 目錄, 然後以 7zip 解開到 C:\wcmj2020 目錄下&lt;/p&gt;
+&lt;p&gt;step 2
+解開後的目錄為 c:\wcmj2020\wcm2020, 其中有 start.bat 與 stop.bat, 開啟可攜系統時, 以滑鼠點擊 start.bat, 關閉可攜系統時, 以滑鼠點擊 stop.bat&lt;/p&gt;
+&lt;p&gt;step 3
+登入以個人學號所建立的 github 帳號, 然後建立 wcmj2020 倉儲 …&lt;/p&gt;</summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;step 1
 登入 gm 帳號後, 下載 https://drive.google.com/open?id=1SvMKQFViJ0mskt20UhSqkjzckB3noSJH 至 downloads 目錄, 然後以 7zip 解開到 C:\wcmj2020 目錄下&lt;/p&gt;
@@ -25,8 +329,13 @@ git config --global http.proxy http://[2001:288:6004:17::53]:3128&lt;/p&gt;
 git commit -m "commit message"
 git push&lt;/p&gt;
 &lt;p&gt;輸入帳號密碼???&lt;/p&gt;</content><category term="Misc"></category><category term="使用CMSIMDE"></category></entry><entry><title>以SSH維護倉儲</title><link href=".%5C20200522-wcmj2020.html" rel="alternate"></link><published>2020-05-22T15:30:00+08:00</published><updated>2020-05-22T15:30:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-05-22:.\20200522-wcmj2020.html</id><summary type="html">&lt;p&gt;由於在電腦教室時採用純 IPv6 協定上網, 因此為了能夠在近端將倉儲改版資料推送到目前只接受 IPv4 協定連線的 github, 以下除了將原本以 https 對 github 連線, 改為以 ssh 協定連線外, 在 Windows 環境下必須利用 putty 與 plink, 設定 putty 格式的 .ppk 以及能夠同時支援 IPv4 與 IPv6 的代理主機.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;由於在電腦教室時採用純 IPv6 協定上網, 因此為了能夠在近端將倉儲改版資料推送到目前只接受 IPv4 協定連線的 github, 以下除了將原本以 https 對 github 連線, 改為以 ssh 協定連線外, 在 Windows 環境下必須利用 putty 與 plink, 設定 putty 格式的 .ppk 以及能夠同時支援 IPv4 與 IPv6 的代理主機.&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
 
+&lt;ol&gt;
+&lt;li&gt;下載 Putty 工具組&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;從 https://www.chiark.greenend.org.uk/~sgtatham/putty/ 下載一般版, 或從 http://jakub.kotrla.net/putty/ 下載特殊的可攜版本 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;由於在電腦教室時採用純 IPv6 協定上網, 因此為了能夠在近端將倉儲改版資料推送到目前只接受 IPv4 協定連線的 github, 以下除了將原本以 https 對 github 連線, 改為以 ssh 協定連線外, 在 Windows 環境下必須利用 putty 與 plink, 設定 putty 格式的 .ppk 以及能夠同時支援 IPv4 與 IPv6 的代理主機.&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;ol&gt;
 &lt;li&gt;下載 Putty 工具組&lt;/li&gt;
@@ -95,9 +404,240 @@ set GIT_SSH=%Disk%:\putty\plink.exe
     merge = refs/heads/master
 [submodule "cmsimde"]
     url = https://github.com/mdecourse/cmsimde.git
-之後就可以透過近端的 .ppk private key 與 Github.com 上的 public key 對應, 無需輸入帳號密碼就可以進行 git push.&lt;/p&gt;</content><category term="Misc"></category><category term="以SSH維護倉儲"></category></entry><entry><title>20200520</title><link href=".%5C2020-wcmj2020-test.html" rel="alternate"></link><published>2020-05-22T02:40:00+08:00</published><updated>2020-05-22T02:40:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-05-22:.\2020-wcmj2020-test.html</id><content type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝&lt;/p&gt;</content><category term="Misc"></category><category term="2020FallCP"></category></entry><entry><title>2018 Fall CP 課程</title><link href=".%5C2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2018-09-10:.\2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
+之後就可以透過近端的 .ppk private key 與 Github.com 上的 public key 對應, 無需輸入帳號密碼就可以進行 git push.&lt;/p&gt;</content><category term="Misc"></category><category term="以SSH維護倉儲"></category></entry><entry><title>讓手機可以利用電腦熱點上網</title><link href=".%5C2020-wcmj2020-3.html" rel="alternate"></link><published>2020-05-22T14:50:00+08:00</published><updated>2020-05-22T14:50:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-05-22:.\2020-wcmj2020-3.html</id><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
+&lt;p&gt;採用 https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/&lt;/p&gt;
+&lt;p&gt;將此一 USB Wifi adapter 連接電腦後, 若網路為 IPv4 協定時, 可以透過"設定 -&amp;gt; 網路和網際網路 -&amp;gt; 行動熱點", 選擇開啟並編輯"網路名稱與網路密碼"後, 讓至多 8 台手機透過熱點連線上網.&lt;/p&gt;
+&lt;p&gt;但是因為目前 Windows 10 並未提供 IPv6 網路協定下的網路熱點功能, 因此在純 IPv6 網路協定下無法使用"行動熱點"服務.&lt;/p&gt;</content><category term="Misc"></category><category term="讓手機可以利用電腦熱點上網"></category></entry><entry><title>20200520</title><link href=".%5C2020-wcmj2020-test.html" rel="alternate"></link><published>2020-05-22T02:40:00+08:00</published><updated>2020-05-22T02:40:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-05-22:.\2020-wcmj2020-test.html</id><content type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="Misc"></category><category term="2020FallCP"></category></entry><entry><title>Neighbor Articles Plugin for Pelican</title><link href=".%5Cneighbor-articles-plugin-for-pelican.html" rel="alternate"></link><published>2020-04-10T12:56:02+08:00</published><updated>2020-04-10T12:56:02+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-04-10:.\neighbor-articles-plugin-for-pelican.html</id><summary type="html">&lt;p&gt;This plugin adds &lt;tt class="docutils literal"&gt;next_article&lt;/tt&gt; (newer) and &lt;tt class="docutils literal"&gt;prev_article&lt;/tt&gt; (older)
+variables to the article's context.&lt;/p&gt;
+&lt;p&gt;Also adds &lt;tt class="docutils literal"&gt;next_article_in_category&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;prev_article_in_category&lt;/tt&gt;.&lt;/p&gt;
+&lt;div class="section" id="usage"&gt;
+&lt;h2&gt;Usage&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;SITEURL&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;/&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article.url&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+             &lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article.title&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;endif&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;article.next_article&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;SITEURL&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;/&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.next_article.url&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+             &lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.next_article.title&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;a …&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;This plugin adds &lt;tt class="docutils literal"&gt;next_article&lt;/tt&gt; (newer) and &lt;tt class="docutils literal"&gt;prev_article&lt;/tt&gt; (older)
+variables to the article's context.&lt;/p&gt;
+&lt;p&gt;Also adds &lt;tt class="docutils literal"&gt;next_article_in_category&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;prev_article_in_category&lt;/tt&gt;.&lt;/p&gt;
+&lt;div class="section" id="usage"&gt;
+&lt;h2&gt;Usage&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;SITEURL&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;/&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article.url&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+             &lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article.title&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;endif&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;article.next_article&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;SITEURL&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;/&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.next_article.url&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+             &lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.next_article.title&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;endif&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article_in_category&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;SITEURL&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;/&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article_in_category.url&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+             &lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article_in_category.title&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;endif&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;article.next_article_in_category&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;SITEURL&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;/&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.next_article_in_category.url&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+             &lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.next_article_in_category.title&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;endif&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+ &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="usage-with-the-subcategory-plugin"&gt;
+&lt;h2&gt;Usage with the Subcategory plugin&lt;/h2&gt;
+&lt;p&gt;If you want to get the neigbors within a subcategory it's a little different.
+Since an article can belong to more than one subcategory, subcategories are
+stored in a list. If you have an article with subcategories like&lt;/p&gt;
+&lt;p&gt;&lt;tt class="docutils literal"&gt;Category/Foo/Bar&lt;/tt&gt;&lt;/p&gt;
+&lt;p&gt;it will belong to both subcategory Foo, and Foo/Bar. Subcategory neighbors are
+added to an article as &lt;tt class="docutils literal"&gt;next_article_in_subcategory#&lt;/tt&gt; and
+&lt;tt class="docutils literal"&gt;prev_article_in_subcategory#&lt;/tt&gt; where &lt;tt class="docutils literal"&gt;#&lt;/tt&gt; is the level of subcategory. So using
+the example from above, subcategory1 will be Foo, and subcategory2 Foo/Bar.
+Therefor the usage with subcategories is:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article_in_subcategory1&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;SITEURL&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;/&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article_in_subcategory1.url&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+             &lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article_in_subcategory1.title&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;endif&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;article.next_article_in_subcategory1&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;SITEURL&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;/&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.next_article_in_subcategory1.url&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+             &lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.next_article_in_subcategory1.title&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;endif&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article_in_subcategory2&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;SITEURL&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;/&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article_in_subcategory2.url&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+             &lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.prev_article_in_subcategory2.title&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;endif&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;article.next_article_in_subcategory2&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;SITEURL&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;/&lt;/span&gt;&lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.next_article_in_subcategory2.url&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+             &lt;span class="cp"&gt;{{&lt;/span&gt; &lt;span class="nv"&gt;article.next_article_in_subcategory2.title&lt;/span&gt; &lt;span class="cp"&gt;}}&lt;/span&gt;
+         &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+     &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="cp"&gt;{%&lt;/span&gt; &lt;span class="k"&gt;endif&lt;/span&gt; &lt;span class="cp"&gt;%}&lt;/span&gt;
+ &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="misc"></category></entry><entry><title>Sitemap</title><link href=".%5Csitemap.html" rel="alternate"></link><published>2020-04-10T12:56:02+08:00</published><updated>2020-04-10T12:56:02+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-04-10:.\sitemap.html</id><summary type="html">&lt;p&gt;This plugin generates plain-text or XML sitemaps. You can use the &lt;tt class="docutils literal"&gt;SITEMAP&lt;/tt&gt;
+variable in your settings file to configure the behavior of the plugin.&lt;/p&gt;
+&lt;p&gt;The &lt;tt class="docutils literal"&gt;SITEMAP&lt;/tt&gt; variable must be a Python dictionary and can contain these keys:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;&lt;tt class="docutils literal"&gt;format&lt;/tt&gt;, which sets the output format of the plugin (&lt;tt class="docutils literal"&gt;xml&lt;/tt&gt; or &lt;tt class="docutils literal"&gt;txt&lt;/tt&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;&lt;tt class="docutils literal"&gt;priorities …&lt;/tt&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;This plugin generates plain-text or XML sitemaps. You can use the &lt;tt class="docutils literal"&gt;SITEMAP&lt;/tt&gt;
+variable in your settings file to configure the behavior of the plugin.&lt;/p&gt;
+&lt;p&gt;The &lt;tt class="docutils literal"&gt;SITEMAP&lt;/tt&gt; variable must be a Python dictionary and can contain these keys:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;&lt;tt class="docutils literal"&gt;format&lt;/tt&gt;, which sets the output format of the plugin (&lt;tt class="docutils literal"&gt;xml&lt;/tt&gt; or &lt;tt class="docutils literal"&gt;txt&lt;/tt&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;&lt;tt class="docutils literal"&gt;priorities&lt;/tt&gt;, which is a dictionary with three keys:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;articles&lt;/tt&gt;, the priority for the URLs of the articles and their
+translations&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;pages&lt;/tt&gt;, the priority for the URLs of the static pages&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;&lt;tt class="docutils literal"&gt;indexes&lt;/tt&gt;, the priority for the URLs of the index pages, such as tags,&lt;/dt&gt;
+&lt;dd&gt;author pages, categories indexes, archives, etc...&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All the values of this dictionary must be decimal numbers between &lt;tt class="docutils literal"&gt;0&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;1&lt;/tt&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;&lt;tt class="docutils literal"&gt;changefreqs&lt;/tt&gt;, which is a dictionary with three items:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;articles&lt;/tt&gt;, the update frequency of the articles&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;pages&lt;/tt&gt;, the update frequency of the pages&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;indexes&lt;/tt&gt;, the update frequency of the index pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Valid frequency values are &lt;tt class="docutils literal"&gt;always&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;hourly&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;daily&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;weekly&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;monthly&lt;/tt&gt;,
+&lt;tt class="docutils literal"&gt;yearly&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;never&lt;/tt&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can exclude URLs from being included in the sitemap via regular expressions.
+For example, to exclude all URLs containing &lt;tt class="docutils literal"&gt;tag/&lt;/tt&gt; or &lt;tt class="docutils literal"&gt;category/&lt;/tt&gt; you can
+use the following &lt;tt class="docutils literal"&gt;SITEMAP&lt;/tt&gt; setting.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;SITEMAP&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="s1"&gt;&amp;#39;exclude&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;tag/&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;category/&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;If a key is missing or a value is incorrect, it will be replaced with the
+default value.&lt;/p&gt;
+&lt;p&gt;The sitemap is saved in &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;&amp;lt;output_path&amp;gt;/sitemap.&amp;lt;format&amp;gt;&lt;/span&gt;&lt;/tt&gt;.&lt;/p&gt;
+&lt;div class="admonition note"&gt;
+&lt;p class="first admonition-title"&gt;Note&lt;/p&gt;
+&lt;p class="last"&gt;&lt;tt class="docutils literal"&gt;priorities&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;changefreqs&lt;/tt&gt; are information for search engines.
+They are only used in the XML sitemaps.
+For more information: &amp;lt;&lt;a class="reference external" href="http://www.sitemaps.org/protocol.html#xmlTagDefinitions"&gt;http://www.sitemaps.org/protocol.html#xmlTagDefinitions&lt;/a&gt;&amp;gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here is an example configuration (it's also the default settings):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;PLUGINS&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;pelican.plugins.sitemap&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,]&lt;/span&gt;
+
+&lt;span class="n"&gt;SITEMAP&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="s1"&gt;&amp;#39;format&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;xml&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+    &lt;span class="s1"&gt;&amp;#39;priorities&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+        &lt;span class="s1"&gt;&amp;#39;articles&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="mf"&gt;0.5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+        &lt;span class="s1"&gt;&amp;#39;indexes&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="mf"&gt;0.5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+        &lt;span class="s1"&gt;&amp;#39;pages&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="mf"&gt;0.5&lt;/span&gt;
+    &lt;span class="p"&gt;},&lt;/span&gt;
+    &lt;span class="s1"&gt;&amp;#39;changefreqs&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+        &lt;span class="s1"&gt;&amp;#39;articles&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;monthly&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+        &lt;span class="s1"&gt;&amp;#39;indexes&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;daily&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+        &lt;span class="s1"&gt;&amp;#39;pages&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;monthly&amp;#39;&lt;/span&gt;
+    &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+</content><category term="misc"></category></entry><entry><title>Summary</title><link href=".%5Csummary.html" rel="alternate"></link><published>2020-04-10T12:56:02+08:00</published><updated>2020-04-10T12:56:02+08:00</updated><author><name>50833116</name></author><id>tag:None,2020-04-10:.\summary.html</id><summary type="html">&lt;p&gt;This plugin allows easy, variable length summaries directly embedded into the
+body of your articles. It introduces two new settings: &lt;tt class="docutils literal"&gt;SUMMARY_BEGIN_MARKER&lt;/tt&gt;
+and &lt;tt class="docutils literal"&gt;SUMMARY_END_MARKER&lt;/tt&gt;: strings which can be placed directly into an article
+to mark the beginning and end of a summary. When found, the standard
+&lt;tt class="docutils literal"&gt;SUMMARY_MAX_LENGTH&lt;/tt&gt; setting will be ignored …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This plugin allows easy, variable length summaries directly embedded into the
+body of your articles. It introduces two new settings: &lt;tt class="docutils literal"&gt;SUMMARY_BEGIN_MARKER&lt;/tt&gt;
+and &lt;tt class="docutils literal"&gt;SUMMARY_END_MARKER&lt;/tt&gt;: strings which can be placed directly into an article
+to mark the beginning and end of a summary. When found, the standard
+&lt;tt class="docutils literal"&gt;SUMMARY_MAX_LENGTH&lt;/tt&gt; setting will be ignored. The markers themselves will also
+be removed from your articles before they are published. The default values
+are &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;&amp;lt;!--&lt;/span&gt; PELICAN_BEGIN_SUMMARY &lt;span class="pre"&gt;--&amp;gt;&lt;/span&gt;&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;&amp;lt;!--&lt;/span&gt; PELICAN_END_SUMMARY &lt;span class="pre"&gt;--&amp;gt;&lt;/span&gt;&lt;/tt&gt;.
+For example:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Title: My super title
+Date: 2010-12-03 10:20
+Tags: thats, awesome
+Category: yeah
+Slug: my-super-post
+Author: Alexis Metaireau
+
+This is the content of my super blog post.
+&amp;lt;!-- PELICAN_END_SUMMARY --&amp;gt;
+and this content occurs after the summary.
+&lt;/pre&gt;
+&lt;p&gt;Here, the summary is taken to be the first line of the post. Because no
+beginning marker was found, it starts at the top of the body. It is possible
+to leave out the end marker instead, in which case the summary will start at the
+beginning marker and continue to the end of the body.&lt;/p&gt;
+&lt;p&gt;The plugin also sets a &lt;tt class="docutils literal"&gt;has_summary&lt;/tt&gt; attribute on every article. It is True
+for articles with an explicitly-defined summary, and False otherwise.  (It is
+also False for an article truncated by &lt;tt class="docutils literal"&gt;SUMMARY_MAX_LENGTH&lt;/tt&gt;.)  Your templates
+can use this e.g. to add a link to the full text at the end of the summary.&lt;/p&gt;
+&lt;div class="section" id="rest-example"&gt;
+&lt;h2&gt;reST example&lt;/h2&gt;
+&lt;p&gt;Inserting the markers into a reStructuredText document makes use of the
+comment directive, because raw HTML is automatically escaped. The reST equivalent of the above Markdown example looks like this:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+My super title
+##############
+
+:date: 2010-12-03 10:20
+:tags: thats, awesome
+:category: yeah
+:slug: my-super-post
+:author: Alexis Metaireau
+
+This is the content of my super blog post.
+
+.. PELICAN_END_SUMMARY
+
+and this content occurs after the summary.
+&lt;/pre&gt;
+&lt;/div&gt;
+</content><category term="misc"></category></entry><entry><title>2018 Fall CP 課程</title><link href=".%5C2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2018-09-10:.\2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;電腦規格&lt;/h2&gt;
+&lt;p&gt;目前系上已經沒有 32 位元 Windows 操作系統的電腦, 所以先前只要有學生提到所使用的電腦是舊型 32 位元的 Windows XP 或 Windows …&lt;/p&gt;</summary><content type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;電腦規格&lt;/h2&gt;
 &lt;p&gt;目前系上已經沒有 32 位元 Windows 操作系統的電腦, 所以先前只要有學生提到所使用的電腦是舊型 32 位元的 Windows XP 或 Windows 7, 都無法提供相應的可攜程式系統.&lt;/p&gt;
@@ -112,8 +652,4 @@ set GIT_SSH=%Disk%:\putty\plink.exe
 &lt;p&gt;將近二十年過去, &lt;a href="https://webcache.googleusercontent.com/search?q=cache:sqYPNC8_mgoJ:https://www.most.gov.tw/sci/ch/detail%3Farticle_uid%3D4ee546e6-73fa-43a8-b1df-a5a0a1fe1824%26menu_id%3D0bac23e6-b3df-4fe0-b152-2e1050eb2f2c%26content_type%3DP%26view_mode%3DlistView+&amp;amp;cd=6&amp;amp;hl=zh-TW&amp;amp;ct=clnk&amp;amp;gl=tw"&gt;網際機械設計資源中心&lt;/a&gt;始終仍只有片段系統, 其中包含 &lt;a href="https://github.com/chiamingyen/cmsimfly"&gt;CMSimfly&lt;/a&gt;、&lt;a href="https://github.com/chiamingyen/pygrouf"&gt;Pygrouf&lt;/a&gt; 與 &lt;a href="https://github.com/KmolYuan/Pyslvs-PyQt5"&gt;Pyslvs&lt;/a&gt; (&lt;a href="http://www.pyslvs.com/content/"&gt;Pyslvs 手冊&lt;/a&gt;)等相關專案.&lt;/p&gt;
 &lt;p&gt;就如同&lt;a href="http://blog.ez2learn.com/2009/06/27/how-to-write-useful-program/"&gt;如何寫出有用的程式?&lt;/a&gt; 一文中所述, "沒有興趣不要來念資工" 是一句非常貼切的警語, 當學生對於程式設計提不起興趣, 沒有將所學的各式語法、資料結構與演算法, 套用在自己非常有興趣的領域中, 用來解決各式問題的話, 日復一日, 我們還是寫不出任何有用的程式!&lt;/p&gt;
 &lt;h2&gt;早該起頭的重要工作&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.quora.com/Why-is-programming-so-important-in-the-modern-world"&gt;計算機程式的重要性&lt;/a&gt;其實已經無需爭辯, 人類未來的許多工作都是透過網路與數位運算達成, 既知趨勢如此, 每一位工程師就該越早起頭原本就該進行的重要工作, 透過計算機程式來解決問題, 構築一個值得長期投注心力的程式專案.&lt;/p&gt;</content><category term="Misc"></category><category term="2018FallCP"></category></entry><entry><title>讓手機可以利用電腦熱點上網</title><link href=".%5C2020-wcmj2020-3.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>50833116</name></author><id>tag:None,2018-09-10:.\2020-wcmj2020-3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;採用 https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/&lt;/p&gt;
-&lt;p&gt;將此一 USB Wifi adapter 連接電腦後, 若網路為 IPv4 協定時, 可以透過"設定 -&amp;gt; 網路和網際網路 -&amp;gt; 行動熱點", 選擇開啟並編輯"網路名稱與網路密碼"後, 讓至多 8 台手機透過熱點連線上網.&lt;/p&gt;
-&lt;p&gt;但是因為目前 Windows 10 並未提供 IPv6 網路協定下的網路熱點功能, 因此在純 IPv6 網路協定下無法使用"行動熱點"服務.&lt;/p&gt;</content><category term="Misc"></category><category term="讓手機可以利用電腦熱點上網"></category></entry></feed>
+&lt;p&gt;&lt;a href="https://www.quora.com/Why-is-programming-so-important-in-the-modern-world"&gt;計算機程式的重要性&lt;/a&gt;其實已經無需爭辯, 人類未來的許多工作都是透過網路與數位運算達成, 既知趨勢如此, 每一位工程師就該越早起頭原本就該進行的重要工作, 透過計算機程式來解決問題, 構築一個值得長期投注心力的程式專案.&lt;/p&gt;</content><category term="Misc"></category><category term="2018FallCP"></category></entry></feed>

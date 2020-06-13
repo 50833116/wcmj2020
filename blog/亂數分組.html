@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+      <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+
+  <title>亂數分組</title>
+
+
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="referrer" content="origin" />
+  <meta name="generator" content="Pelican" />
+  <link href="./" rel="canonical" />
+
+  <!-- Feed -->
+        <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="50833116 網際內容管理 Full Atom Feed" />
+          <link href="./feeds/{slug}.atom.xml" type="application/atom+xml" rel="alternate" title="50833116 網際內容管理 Categories Atom Feed" />
+
+  <link href="./theme/css/style.css" type="text/css" rel="stylesheet" />
+
+  <!-- Code highlight color scheme -->
+      <link href="./theme/css/code_blocks/tomorrow_night.css" rel="stylesheet">
+
+  
+    <link href="./theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+
+  <!-- Custom fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+
+    <link href="./亂數分組.html" rel="canonical" />
+
+        <meta name="description" content="亂數分組: https://mde.tw/wcmj2020/downloads/2020spring_wcmj_1a_list.txt was taken from https://osa.nfu.edu.tw/ on Feb. 19, 2020. The most...">
+
+        <meta name="author" content="50833116">
+
+        <meta name="tags" content="亂數分組">
+
+
+
+
+<!-- Open Graph -->
+<meta property="og:site_name" content="50833116 網際內容管理"/>
+<meta property="og:title" content="亂數分組"/>
+<meta property="og:description" content="亂數分組: https://mde.tw/wcmj2020/downloads/2020spring_wcmj_1a_list.txt was taken from https://osa.nfu.edu.tw/ on Feb. 19, 2020. The most..."/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:url" content="./亂數分組.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2020-06-13 14:00:00+08:00"/>
+<meta property="article:modified_time" content=""/>
+<meta property="article:author" content="./author/50833116.html">
+<meta property="article:section" content="Misc"/>
+<meta property="article:tag" content="亂數分組"/>
+<meta property="og:image" content="./theme/images/post-bg.jpg">
+
+<!-- Twitter Card -->
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "name": "亂數分組",
+  "headline": "亂數分組",
+  "datePublished": "2020-06-13 14:00:00+08:00",
+  "dateModified": "",
+  "author": {
+    "@type": "Person",
+    "name": "50833116",
+    "url": "./author/50833116.html"
+  },
+  "image": "./theme/images/post-bg.jpg",
+  "url": "./亂數分組.html",
+  "description": "亂數分組: https://mde.tw/wcmj2020/downloads/2020spring_wcmj_1a_list.txt was taken from https://osa.nfu.edu.tw/ on Feb. 19, 2020. The most..."
+}
+</script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushBash.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushLua.js"></script>
+<script type='text/javascript'>
+	(function(){
+		var corecss = document.createElement('link');
+		var themecss = document.createElement('link');
+		var corecssurl = "./../cmsimde/static/syntaxhighlighter/css/shCore.css";
+		if ( corecss.setAttribute ) {
+				corecss.setAttribute( "rel", "stylesheet" );
+				corecss.setAttribute( "type", "text/css" );
+				corecss.setAttribute( "href", corecssurl );
+		} else {
+				corecss.rel = "stylesheet";
+				corecss.href = corecssurl;
+		}
+		document.getElementsByTagName("head")[0].insertBefore( corecss, document.getElementById("syntaxhighlighteranchor") );
+		var themecssurl = "./../cmsimde/static/syntaxhighlighter/css/shThemeDefault.css?ver=3.0.9b";
+		if ( themecss.setAttribute ) {
+				themecss.setAttribute( "rel", "stylesheet" );
+				themecss.setAttribute( "type", "text/css" );
+				themecss.setAttribute( "href", themecssurl );
+		} else {
+				themecss.rel = "stylesheet";
+				themecss.href = themecssurl;
+		}
+		//document.getElementById("syntaxhighlighteranchor").appendChild(themecss);
+		document.getElementsByTagName("head")[0].insertBefore( themecss, document.getElementById("syntaxhighlighteranchor") );
+	})();
+	SyntaxHighlighter.config.strings.expandSource = '+ expand source';
+	SyntaxHighlighter.config.strings.help = '?';
+	SyntaxHighlighter.config.strings.alert = 'SyntaxHighlighter\n\n';
+	SyntaxHighlighter.config.strings.noBrush = 'Can\'t find brush for: ';
+	SyntaxHighlighter.config.strings.brushNotHtmlScript = 'Brush wasn\'t configured for html-script option: ';
+	SyntaxHighlighter.defaults['pad-line-numbers'] = false;
+	SyntaxHighlighter.defaults['toolbar'] = false;
+	SyntaxHighlighter.all();
+</script>
+
+<!-- for LaTeX equations -->
+<script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
+<script type="text/javascript">
+init_mathjax = function() {
+    if (window.MathJax) {
+        // MathJax loaded
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+            },
+            displayAlign: 'left', // Change this to 'center' to center equations.
+            "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}}
+            }
+        });
+        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+    }
+}
+init_mathjax();
+</script>
+
+</head>
+<!-- TODO : Body class -->
+<body class="home-template">
+
+<nav id="menu">
+  <a class="close-button">Close</a>
+  <div class="nav-wrapper">
+    <p class="nav-label">Menu</p>
+    <ul>
+    <!--
+
+              <li role="presentation"><a href="./pages/about/">About</a></li>
+      -->
+
+            <li><a href="./pages/about/index.html">About</span></a></li>
+            
+            <li><a href="./archives.html">Archives</span></a></li>
+            
+            <li><a href="./categories.html">Categories</span></a></li>
+            
+            <li><a href="./tags.html">Tags</span></a></li>
+
+    </ul>
+  </div>
+</nav>
+    <!-- Progressbar -->
+    <div class="progress-container">
+        <span class="progress-bar"></span>
+    </div>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header id="post-header" class="has-cover">
+      <div class="inner">
+        <nav id="navigation">
+            <span id="home-button" class="nav-button">
+                <a class="home-button" href="./index.html" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
+            </span>
+          <span id="menu-button" class="nav-button">
+            <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
+          </span>
+        </nav>
+        <h1 class="post-title">亂數分組</h1>
+        <!-- TODO : Proper class for headline -->
+        <span class="post-meta">
+                <a href="./author/50833116.html">50833116</a>
+            | <time datetime="週六 13 六月 2020">週六 13 六月 2020</time>
+        </span>
+        <!-- TODO : Modified check -->
+            <div class="post-cover cover" style="background-image: url('./theme/images/post-bg.jpg')">
+      </div>
+    </header>
+
+  <section id="wrapper">
+    <a class="hidden-close"></a>
+
+<section class="search">
+      <form class="navbar-search" action="./search.html">
+      <input type="text"  placeholder="Search" name="q" id="tipue_search_input" required>
+    </form>
+</section>
+
+
+    <!-- Post content -->
+    <main class="content" role="main">
+        <article class="post">
+        <div class="inner">
+            <section class="post-content">
+                <p>亂數分組:
+https://mde.tw/wcmj2020/downloads/2020spring_wcmj_1a_list.txt was taken from https://osa.nfu.edu.tw/ on Feb. 19, 2020.</p>
+<p>The most updated list: http://s1.mde.nfu.edu.tw:8000/?semester=1082&amp;courseno=2418 </p>
+<p>semester: 1082</p>
+<p>courseno: 2418</p>
+<p>Under https protocol use port 7443, for http use port 8000.</p>
+<p>學員名單 URL: 
+http://s1.mde.nfu.edu.tw:8000/?semester=1082&amp;courseno=2418 </p>
+<p>Dart source code for random grouping</p>
+<p>evenGrouping.dart:</p>
+<p>import 'dart:html';</p>
+<p>InputElement studListUrl = querySelector("#studListUrl");
+  String studUrl;
+  // 將 Label 改為 Textarea, 避免產生過程結果嵌入所在頁面
+  TextAreaElement output = querySelector("#output");</p>
+<p>main() {
+  querySelector("#submit").onClick.listen((e) =&gt; grouping());
+}</p>
+<p>grouping() {
+  output.innerHtml = "";</p>
+<p>if (studListUrl.value != "") {
+    studUrl = studListUrl.value;
+  } else {
+    studUrl = 'https://mde.tw/group/downloads/2019fall_cp_1a_list.txt';
+  }</p>
+<p>// 組序由 1 開始
+  int gth = 1;
+  // 迴圈序號變數
+  int i;
+  int j;
+  int total;
+  int inc;
+  // 每組學員暫存數列
+  var gpList = [];
+  // 全班分組數列
+  var group = [];
+  // 各組人數數列
+  var numList = [];
+  var courseTitle = 'wcmj2020';</p>
+<p>HttpRequest.getString(studUrl).then((String resp) {
+    // 利用 trim() 去除字串最後的跳行符號, 之後再利用 split() 根據 \n 轉為數列
+    var studList = resp.trim().split("\n");
+    // 數列利用 shuffle() 方法以隨機方法弄亂順序
+    studList.shuffle();
+    total = studList.length;
+    output.text += "全班總計" + total.toString() + " 人\n";
+    numList = getNumList(studList.length);
+    inc = 0;
+    for (i in numList){
+      // 列印區隔符號
+      output.text += '=' * 20 + "\n";
+      output.text += "group $gth 有 " + i.toString() + " 人: \n";
+      gpList = [];
+      for (j = 0; j &lt; i; j++){
+        output.text += studList[j+inc] + "\n";
+        // 在各分組數列中加入將對應的學員學號
+        gpList.add(studList[j+inc]);
+      }
+      gth = gth + 1;
+      inc = inc + j;
+        //output.text += studList[j] + "\n";
+        // 逐步將各組暫存的分組數列加入全班分組數列中
+      gpList.sort();
+      group.add(gpList);
+    }
+    // 列出全班分組數列
+    output.text += group.toString() + "\n";
+    // 列出已經排序後的分組名單
+    output.text += '=' * 25 + "\n";
+    output.text += '以下為排序後的各組成員名單: \n';
+    gth = 1;
+    /<em>
+    404231
+    s4052
+    4062
+    s4072
+    4082
+    5072
+    5083
+    </em>/
+    // 先列出純文字以 \n 跳行組員資料
+    for (i=0; i &lt; group.length; i++){
+      // 列印區隔符號
+      output.text += '=' * 20 + "\n";
+      output.text += "group $gth \n";
+      gpList = [];
+      for (j=0; j &lt; group[i].length; j++){
+        output.text += group[i][j] + "\n";
+      }
+      gth = gth + 1;
+    }</p>
+<div class="highlight"><pre><span></span><code><span class="n">gth</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">;</span><span class="w"></span>
+<span class="o">//</span><span class="w"> </span><span class="n">最後列出超文件以</span><span class="w"> </span><span class="o">&lt;</span><span class="n">br</span><span class="err">\</span><span class="o">&gt;</span><span class="w"> </span><span class="n">跳行組員資料</span><span class="p">,</span><span class="w"> </span><span class="n">包含倉儲與網站</span><span class="w"></span>
+<span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="k">group</span><span class="p">.</span><span class="n">length</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="err">{</span><span class="w"></span>
+<span class="w">  </span><span class="o">//</span><span class="w"> </span><span class="n">列印區隔符號</span><span class="w"></span>
+<span class="w">  </span><span class="k">output</span><span class="p">.</span><span class="nc">text</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="s1">&#39;\n&#39;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s1">&#39;=&#39;</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="mi">30</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot;&lt;br \&gt;&quot;</span><span class="p">;</span><span class="w"></span>
+<span class="w">  </span><span class="k">output</span><span class="p">.</span><span class="nc">text</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="ss">&quot;group $gth &lt;br \&gt;&quot;</span><span class="p">;</span><span class="w"></span>
+<span class="w">  </span><span class="n">gpList</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="err">[]</span><span class="p">;</span><span class="w"></span>
+<span class="w">  </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">j</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">j</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">]</span><span class="p">.</span><span class="n">length</span><span class="p">;</span><span class="w"> </span><span class="n">j</span><span class="o">++</span><span class="p">)</span><span class="err">{</span><span class="w"></span>
+<span class="w">      </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">][</span><span class="n">j</span><span class="o">]</span><span class="p">.</span><span class="n">startsWith</span><span class="p">(</span><span class="s1">&#39;4052&#39;</span><span class="p">)</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">][</span><span class="n">j</span><span class="o">]</span><span class="p">.</span><span class="n">startsWith</span><span class="p">(</span><span class="s1">&#39;4072&#39;</span><span class="p">))</span><span class="w"> </span><span class="err">{</span><span class="w"></span>
+<span class="w">          </span><span class="k">output</span><span class="p">.</span><span class="nc">text</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="ss">&quot;Repository: &lt;a href=&#39;https://github.com/s&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span>
+<span class="w">                                  </span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">][</span><span class="n">j</span><span class="o">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot;/&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">courseTitle</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot;&#39;&gt;&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">][</span><span class="n">j</span><span class="o">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span>
+<span class="w">                                  </span><span class="ss">&quot;&lt;/a&gt;&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot; | Site: &lt;a href=&#39;https://s&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">][</span><span class="n">j</span><span class="o">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span>
+<span class="w">                                  </span><span class="ss">&quot;.github.io/&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">courseTitle</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot;&#39;&gt;&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">][</span><span class="n">j</span><span class="o">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span>
+<span class="w">                                  </span><span class="ss">&quot;&lt;/a&gt;&lt;br \&gt;&quot;</span><span class="p">;</span><span class="w"></span>
+<span class="w">      </span><span class="err">}</span><span class="w"></span>
+<span class="w">      </span><span class="k">else</span><span class="w"> </span><span class="err">{</span><span class="w"></span>
+<span class="w">          </span><span class="k">output</span><span class="p">.</span><span class="nc">text</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="ss">&quot;Repository: &lt;a href=&#39;https://github.com/&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span>
+<span class="w">                                  </span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">][</span><span class="n">j</span><span class="o">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot;/&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">courseTitle</span><span class="w"> </span><span class="o">+</span><span class="ss">&quot;&#39;&gt;&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">][</span><span class="n">j</span><span class="o">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span>
+<span class="w">                                  </span><span class="ss">&quot;&lt;/a&gt;&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot; | Site: &lt;a href=&#39;https://&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">][</span><span class="n">j</span><span class="o">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span>
+<span class="w">                                  </span><span class="ss">&quot;.github.io/&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">courseTitle</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot;&#39;&gt;&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="k">group</span><span class="o">[</span><span class="n">i</span><span class="o">][</span><span class="n">j</span><span class="o">]</span><span class="w"> </span><span class="o">+</span><span class="w"> </span>
+<span class="w">                                  </span><span class="ss">&quot;&lt;/a&gt;&lt;br \&gt;&quot;</span><span class="p">;</span><span class="w"></span>
+<span class="w">      </span><span class="err">}</span><span class="w"></span>
+<span class="w">  </span><span class="err">}</span><span class="w"></span>
+<span class="w">  </span><span class="n">gth</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gth</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">1</span><span class="p">;</span><span class="w"></span>
+<span class="err">}</span><span class="w"></span>
+</code></pre></div>
+
+
+<p>});
+}</p>
+<p>List getNumList(int total){
+  // total student number
+  // int total = 65;
+  // initial each group expect to be "eachGrp" number of people
+  int eachGrp = 10;
+  // may divide into "grpNum" number of group
+  int grpNum = total ~/ eachGrp;
+  // vacant list
+  var splits = [];
+  // find remainder when total number divid into "grpNum" number of group
+  int remainder = total % grpNum;
+  // number of people in one group by calculation
+  int calGrp = total ~/ grpNum;</p>
+<p>for (int i = 0; i &lt; grpNum; i++) {
+    splits.add(calGrp);
+  }
+  //print(splits);</p>
+<p>for (int i = 0; i &lt; remainder; i++) {
+    splits[i] += 1;
+  }
+  //print(splits);
+  return splits;
+ }
+index.html:</p>
+<h1>亂數分組:</h1>
+
+<p>學員名單 URL: <input type="text" id="studListUrl" size="50" value="https://mde.tw/wcm2020/downloads/2020spring_wcm_1a_list.txt"><br />
+<input type="submit" value="開始分組" id="submit"><br />
+<textarea id="output" cols="80" rows="10"></textarea>
+style.css:</p>
+<p>body {
+  color: white;
+  font-size: 20px;
+}</p>
+<p>input, select, textarea {
+font-size: 100%;
+}
+get_student.py</p>
+<p>from flask import Flask, request 
+from flask_cors import CORS</p>
+<p>import requests
+import bs4
+import ssl</p>
+<p>'''
+https://s1.mde.nfu.edu.tw:7443/?semester=1082&amp;courseno=0767
+cd
+2a 1082/0767
+2b 1082/0780</p>
+<p>2a 1072/0777
+2b 1072/0790
+2a 1062/0788
+2a 1062/0802</p>
+<p>wcm
+1082/0744</p>
+<p>1072/0754
+1062/0765</p>
+<p>wcmj
+1082/2418
+'''</p>
+<p>app = Flask(<strong>name</strong>)
+CORS(app)</p>
+<p>@app.route('/studlist')
+@app.route('/')
+def studlist():
+    semester = request.args.get('semester')
+    courseno = request.args.get('courseno')
+    if semester == None:
+        semester = '1082'
+    if courseno == None:
+        courseno = '0744'</p>
+<div class="highlight"><pre><span></span><code><span class="n">url</span> <span class="o">=</span> <span class="s1">&#39;https://osa.nfu.edu.tw/query/studlist_ajax.php&#39;</span>
+<span class="n">post_var</span> <span class="o">=</span> <span class="err">{</span><span class="s1">&#39;pselyr&#39;</span><span class="p">:</span> <span class="n">semester</span><span class="p">,</span> <span class="s1">&#39;pseqno&#39;</span><span class="p">:</span> <span class="n">courseno</span><span class="err">}</span>
+
+<span class="k">result</span> <span class="o">=</span> <span class="n">requests</span><span class="p">.</span><span class="n">post</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="k">data</span> <span class="o">=</span> <span class="n">post_var</span><span class="p">)</span>
+
+<span class="n">soup</span> <span class="o">=</span> <span class="n">bs4</span><span class="p">.</span><span class="n">BeautifulSoup</span><span class="p">(</span><span class="k">result</span><span class="p">.</span><span class="n">content</span><span class="p">,</span> <span class="s1">&#39;lxml&#39;</span><span class="p">)</span>
+<span class="k">table</span> <span class="o">=</span> <span class="n">soup</span><span class="p">.</span><span class="n">find</span><span class="p">(</span><span class="s1">&#39;table&#39;</span><span class="p">,</span> <span class="err">{</span><span class="s1">&#39;class&#39;</span><span class="p">:</span> <span class="s1">&#39;tbcls&#39;</span><span class="err">}</span><span class="p">)</span>
+<span class="k">data</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="k">rows</span> <span class="o">=</span> <span class="k">table</span><span class="p">.</span><span class="n">find_all</span><span class="p">(</span><span class="s1">&#39;tr&#39;</span><span class="p">)</span>
+<span class="k">for</span> <span class="k">row</span> <span class="k">in</span> <span class="k">rows</span><span class="p">:</span>
+    <span class="n">cols</span> <span class="o">=</span> <span class="k">row</span><span class="p">.</span><span class="n">find_all</span><span class="p">(</span><span class="s1">&#39;td&#39;</span><span class="p">)</span>
+    <span class="n">cols</span> <span class="o">=</span> <span class="p">[</span><span class="n">ele</span><span class="p">.</span><span class="nb">text</span><span class="p">.</span><span class="n">strip</span><span class="p">()</span> <span class="k">for</span> <span class="n">ele</span> <span class="k">in</span> <span class="n">cols</span><span class="p">]</span>
+    <span class="k">data</span><span class="p">.</span><span class="n">append</span><span class="p">([</span><span class="n">ele</span> <span class="k">for</span> <span class="n">ele</span> <span class="k">in</span> <span class="n">cols</span> <span class="k">if</span> <span class="n">ele</span><span class="p">])</span> <span class="o">#</span> <span class="k">Get</span> <span class="n">rid</span> <span class="k">of</span> <span class="n">empty</span> <span class="k">values</span>
+<span class="k">output</span> <span class="o">=</span> <span class="ss">&quot;&quot;</span>
+<span class="k">for</span> <span class="n">i</span> <span class="k">in</span> <span class="k">data</span><span class="p">[</span><span class="mi">2</span><span class="p">:]:</span>
+    <span class="o">#</span><span class="n">print</span><span class="p">(</span><span class="n">i</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+    <span class="k">output</span> <span class="o">+=</span><span class="n">i</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">+</span> <span class="ss">&quot;\n&quot;</span>
+<span class="k">return</span> <span class="k">output</span>
+<span class="o">#</span><span class="k">return</span>  <span class="n">str</span><span class="p">(</span><span class="n">pselyr</span><span class="p">)</span> <span class="o">+</span> <span class="ss">&quot; + &quot;</span> <span class="o">+</span><span class="n">str</span><span class="p">(</span><span class="n">pseqno</span><span class="p">)</span>
+</code></pre></div>
+
+
+<h1>即使在近端仍希望以 https 模式下執行</h1>
+<p>context = ssl.SSLContext(ssl.PROTOCOL_TLSv1_2)
+context.load_cert_chain('localhost.crt', 'localhost.key')</p>
+<h1>取 flaskapp.py 中的 uwsgi 變數設定</h1>
+<p>uwsgi = False
+if uwsgi:
+    # 表示程式在雲端執行
+    application = app
+else:
+    # 表示在近端執行, 以 python3 wsgi.py 執行
+    app.run(host='127.0.0.1', port=5443, debug=True, ssl_context=context)
+nginx sites-available/default settings:</p>
+<p>server {
+    listen 8000;
+    server_name s1.mde.nfu.edu.tw;
+    charset utf-8;</p>
+<div class="highlight"><pre><span></span><code><span class="nt">listen</span> <span class="nt">7443</span> <span class="nt">ssl</span><span class="o">;</span>
+
+<span class="nt">location</span> <span class="o">/</span><span class="nt">static</span> <span class="p">{</span>
+    <span class="err">alias</span> <span class="err">/home/kmol2019/course_studlist/static/</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">location</span> <span class="o">/</span> <span class="p">{</span>
+    <span class="err">include</span> <span class="err">uwsgi_params</span><span class="p">;</span>
+    <span class="err">uwsgi_pass</span>  <span class="err">127.0.0.1:8087</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">ssl_certificate</span> <span class="o">/</span><span class="nt">etc</span><span class="o">/</span><span class="nt">stunnel</span><span class="o">/</span><span class="nt">localhost</span><span class="p">.</span><span class="nc">crt</span><span class="o">;</span>
+<span class="nt">ssl_certificate_key</span> <span class="o">/</span><span class="nt">etc</span><span class="o">/</span><span class="nt">stunnel</span><span class="o">/</span><span class="nt">localhost</span><span class="p">.</span><span class="nc">key</span><span class="o">;</span>
+<span class="nt">ssl_session_timeout</span> <span class="nt">5m</span><span class="o">;</span>
+<span class="nt">ssl_protocols</span> <span class="nt">SSLv3</span> <span class="nt">TLSv1</span> <span class="nt">TLSv1</span><span class="p">.</span><span class="nc">1</span> <span class="nt">TLSv1</span><span class="p">.</span><span class="nc">2</span><span class="o">;</span>
+<span class="nt">ssl_ciphers</span> <span class="s2">&quot;HIGH:!aNULL:!MD5 or HIGH:!aNULL:!MD5:!3DES&quot;</span><span class="o">;</span>
+<span class="nt">ssl_prefer_server_ciphers</span> <span class="nt">on</span><span class="o">;</span>
+<span class="nt">try_files</span> <span class="o">$</span><span class="nt">uri</span> <span class="o">$</span><span class="nt">uri</span><span class="o">/</span> <span class="o">=</span><span class="nt">404</span><span class="o">;</span>
+</code></pre></div>
+
+
+<p>}
+uwsgi7.ini</p>
+<p>[uwsgi]
+socket = 127.0.0.1:8087
+uid = kmol2019
+gid = kmol2019
+plugins-dir = /usr/lib/uwsgi/plugins/
+plugin = python3
+master = true
+logto = /var/log/uwsgi/emperor.log
+logfile-chown = kmol2019:kmol2019
+processes = 4
+threads = 2
+chdir = /home/kmol2019/course_studlist
+wsgi-file = /home/kmol2019/course_studlist/get_student.py
+/etc/systemd/system/cmsimfly.service</p>
+<p>[Unit]
+Description=uWSGI to serve CMSimfly
+After=network.target</p>
+<p>[Service]
+User=kmol2019
+Group=kmol2019
+WorkingDirectory=/home/kmol2019/uwsgi_ini
+ExecStart=/usr/local/bin/uwsgi --emperor /home/kmol2019/uwsgi_ini</p>
+<p>[Install]
+WantedBy=multi-user.target</p>
+            </section>
+
+            <section class="post-info">
+                <div class="post-share">
+                    <a class="twitter" href="https://twitter.com/share?text=亂數分組&amp;url=./亂數分組.html" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <i class="ic ic-twitter"></i><span class="hidden">Twitter</span>
+                    </a>
+                    <a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=./亂數分組.html" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <i class="ic ic-facebook"></i><span class="hidden">Facebook</span>
+                    </a>
+                    <a class="googleplus" href="https://plus.google.com/share?url=./亂數分組.html" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <i class="ic ic-googleplus"></i><span class="hidden">Google+</span>
+                    </a>
+                    <div class="clear"></div>
+                </div>
+
+                <aside class="post-tags">
+<a href="./tag/luan-shu-fen-zu.html">亂數分組</a>                </aside>
+
+                <div class="clear"></div>
+
+
+                </section>
+
+
+                <aside class="post-nav">
+                    <div class="clear"></div>
+                </aside>
+
+            </div>
+        </article>
+    </main>
+      <!-- TODO : Body class -->
+    <div id="body-class" style="display: none;" class=""></div>
+
+    <footer id="footer">
+      <div class="inner">
+        <section class="credits">
+
+
+          <span class="credits-theme">Theme <a href="https://github.com/arulrajnet/attila" rel="nofollow">Attila</a></span>
+          <span class="credits-software">Published with <a href="https://github.com/getpelican/pelican" rel="nofollow">Pelican</a></span>
+        </section>
+      </div>
+    </footer>
+  </section>
+  
+  <script type="text/javascript" src="./theme/js/script.js"></script>
+
+ 
+
+
+</body>
+</html>
