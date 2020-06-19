@@ -1,16 +1,5 @@
 <h1>About</h1>
 <p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
-<h1>W2</h1>
-<h4>利用 cmsimde 建立靜態網誌方法:</h4>
-<p>1. 在 github 建立倉儲, git clone 到近端</p>
-<p>2. 參考 <a href="https://github.com/mdecourse/newcms">https://github.com/mdecourse/newcms</a>, 加入除了 cmsimde 目錄外的所有內容</p>
-<p>以 git submodule add <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> cmsimde</p>
-<p>建立 cmsimde 目錄, 並從 github 取下子模組內容.</p>
-<p>3.在近端維護時, 更換目錄到倉儲中的 cmsimde, 以 python wsgi.py 啟動近端網際伺服器.</p>
-<p>動態內容編輯完成後, 以 generate_pages 轉為靜態內容, 以 git add commit 及 push 將內容推到遠端.</p>
-<p>4. 之後若要以 git clone 取下包含 submodule 的所有內容, 執行:</p>
-<p>git clone --recurse-submodules <a href="https://github.com/mdecourse/newcms.git">https://github.com/mdecourse/newcms.git</a></p>
-<p></p>
 <h1>Develop</h1>
 <p><a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 的開發, 可以在一個目錄中放入 cmsimde, 然後將 up_dir 中的內容放到與 cmsimde 目錄同位階的地方, 使用 command 進入 cmsimde 目錄, 執行 python wsgi.py, 就可以啟動, 以瀏覽器 https://localhost:9443 就可以連接, 以 admin 作為管理者密碼, 就可以登入維護內容.</p>
 <p>cmsimde 的開發採用 Leo Editor, 開啟 cmsimde 目錄中的 cmsimde.leo 就可以進行程式修改, 結束後, 若要保留網際內容, 只要將 cmsimde 外部的內容倒回 up_dir 目錄中即可後續對 cmsimde 遠端倉儲進行改版.</p>
@@ -695,7 +684,18 @@
 </table>
 </div>
 </div>
-<h1>W6</h1>
+<h1>課程進度</h1>
+<h2>W2</h2>
+<h4>利用 cmsimde 建立靜態網誌方法:</h4>
+<p>1. 在 github 建立倉儲, git clone 到近端</p>
+<p>2. 參考 <a href="https://github.com/mdecourse/newcms">https://github.com/mdecourse/newcms</a>, 加入除了 cmsimde 目錄外的所有內容</p>
+<p>以 git submodule add <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> cmsimde</p>
+<p>建立 cmsimde 目錄, 並從 github 取下子模組內容.</p>
+<p>3.在近端維護時, 更換目錄到倉儲中的 cmsimde, 以 python wsgi.py 啟動近端網際伺服器.</p>
+<p>動態內容編輯完成後, 以 generate_pages 轉為靜態內容, 以 git add commit 及 push 將內容推到遠端.</p>
+<p>4. 之後若要以 git clone 取下包含 submodule 的所有內容, 執行:</p>
+<p>git clone --recurse-submodules <a href="https://github.com/mdecourse/newcms.git">https://github.com/mdecourse/newcms.git</a></p>
+<h2>W6</h2>
 <p>portable obs</p>
 <p>google hangout meet</p>
 <p>streeming and recording</p>
@@ -712,9 +712,9 @@
 <p>例如: git clone --recurse-submodules<span> </span><a href="https://github.com/mdecourse/wcmj2020.git">https://github.com/mdecourse/wcmj2020.git</a></p>
 <h4>現場直播的 audio 錄音設定</h4>
 <p>在電腦輔助設計室進行直播時, 由於現場有擴音設備, 因此採用 OBS 串流至 Youtube 的最佳收音並非從 Webcam 的麥克風, 而是從擴音器以 audio outpu 連接到電腦的麥克風插槽, 然後將 OBS 的 audio 設定為從電腦的麥克風收音.</p>
-<h1>W9</h1>
-<h2>電腦軟硬體設備簡介</h2>
-<h3>主機的類型</h3>
+<h2>W9</h2>
+<h3>電腦軟硬體設備簡介</h3>
+<h4>主機的類型</h4>
 <p>1.super computer超級電腦</p>
 <p>2.mainframe 伺服器主機</p>
 <p>3.serer 伺服器</p>
@@ -732,7 +732,7 @@
 <p>8.音<span>效卡：可說是現在多媒體電腦的必備元件之一，負責電腦音訊的處理讓我們可聽到電腦發出優美的聲音，近年來，主機 板比較先進，大多將其內建在主機板上。</span></p>
 <p><span>9.記憶體(RAM)：記憶體的主要功用是暫存資料，當它被使用時，系統可以從RAM上存取資料，而且需要電力來維持它的記憶，所以記憶體可以說是電腦系統中最佳倉儲管理員。</span></p>
 <p><span>10.</span>光碟機：光碟機，顧名思義就是讀取光碟的工具，爾現在很多光碟機都附有燒綠功能(VCD-DVD)不僅能讀取更可燒綠。</p>
-<h3 align="left">軟體  software</h3>
+<h3>軟體  software</h3>
 <p align="left">則是看不到貨觸摸佈道的程式，由許多經持殊安排的指令組織而成，分為二種：</p>
 <ol>
 <li>
@@ -743,7 +743,7 @@
 </li>
 </ol>
 <p></p>
-<h2>網路架構與設定簡介</h2>
+<h3>網路架構與設定簡介</h3>
 <p>第1步驟</p>
 <p>cd tmp (進入tmp資料夾)</p>
 <p>cd wcmj2020 (進入wcmj2020資料夾)</p>
@@ -757,7 +757,7 @@
 <p>git add .</p>
 <p>git commit "建立名稱"</p>
 <p>git push</p>
-<h1>W10</h1>
+<h2>W10</h2>
 <p>1. 下載 Putty 工具組</p>
 <p><span>從 </span><a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/" rel="nofollow">https://www.chiark.greenend.org.uk/~sgtatham/putty/</a><span><span> </span>下載一般版, 或從<span> </span></span><a href="http://jakub.kotrla.net/putty/" rel="nofollow">http://jakub.kotrla.net/putty/</a><span><span> </span>下載特殊的可攜版本.</span></p>
 <p><span>2. 利用 y:\portablegit\bin\sh.exe 進入 shell 命令環境後, 以 </span></p>
@@ -916,7 +916,7 @@
 </div>
 </div>
 <p>之後就可以透過近端的 .ppk private key 與 Github.com 上的 public key 對應, 無需輸入帳號密碼就可以進行 git push.</p>
-<h1>W12-W13</h1>
+<h2>W12-W13</h2>
 <h4>W12</h4>
 <p><a href="https://drive.google.com/open?id=1d_YpSrTdKLPKZjkHW2TNsbHRU1ePNRFl">Leo Editor 與 Pelican blog 使用說明影片</a></p>
 <h4>W13</h4>
@@ -1381,7 +1381,7 @@
 </table>
 </div>
 </div>
-<h1>W14</h1>
+<h2>W14</h2>
 <p>直接在操作系統建立網際內容管理合用系統</p>
 <p>Windows 10 64 位元操作系統</p>
 <p>安裝 Python 3.8.3 與 pip</p>
@@ -1651,7 +1651,7 @@
 <p>Flutter (Dart)</p>
 <h4>其他提示</h4>
 <p>Command + Shift + . (toggle hidden folders and files)</p>
-<h1>W15-W18</h1>
+<h2>W15-W18</h2>
 <p>各分組除了必須將 W1-W14 週的所有上課內容, 以圖文及影音資料加以整理在個人及分組倉儲、網站及簡報外.</p>
 <p>可以自選另一主題, 將分組協同的過程與內容整理在個人與分組的倉儲資料中</p>
 <p></p>
